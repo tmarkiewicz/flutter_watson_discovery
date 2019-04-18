@@ -165,6 +165,10 @@ For more information on running the `Xcode iOS Simulator`, from the Simulator me
 * [Watson Discovery API docs](https://console.bluemix.net/apidocs/discovery)
 * [How to use Xcode iOS Simulator for responsive web testing on Mac](https://medium.com/@ali.dev/how-to-use-xcode-ios-simulator-for-responsive-web-testing-on-mac-7870ee4fc22b)
 
+# Related resources
+* [Build a cross-platform mobile app using React Native](https://ibm.biz/BdzFes)
+* [Dissecting React Native](https://ibm.biz/BdzFej)
+
 # License
 
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
